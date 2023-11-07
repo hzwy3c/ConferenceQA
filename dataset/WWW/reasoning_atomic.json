@@ -1,0 +1,92 @@
+[
+    {
+        "question": "How frequently is the WWW2023 conference held?",
+        "answer": "WWW2023 is a yearly international academic conference.",
+        "from": "WWW2023/Home/introduction"
+    },
+    {
+        "question": "Can I attend the conference remotely?",
+        "answer": "All speakers, presenters, organizers participating in any way at The Web Conference are expected to attend the conference in person. For exceptional reasons, if you are not able to attend in person to present, you may assign a proxy who must be in person. For special cases, we may make an exception for a live remote presentation. (UPDATE: As of April 26, due to logistical situations, we are not able to accommodate anymore remote presentations)",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Is there any page limit of the manuscript",
+        "answer": "For the research tracks, submissions are limited to 8 content pages, which should include all figures and tables referenced within those 8 pages. In addition, you can include up to 2 pages of appendices, plus additional pages for references, until completing a maximum of 12 pages. The total count of pages of your submission must not exceed 12 pages. ",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/SubmissionGuidelines"
+    },
+    {
+        "question": "How can I contact the conference organizers if I have further questions or concerns?",
+        "answer": "You can contact general chairs at chairs2023@thewebconf.org.",
+        "from": "WWW2023/About/Organizing Committee/GENERAL CHAIRS/contact"
+    },
+    {
+        "question": "Will the conference proceedings be published, and if so, how can one access them?",
+        "answer": "All accepted papers will be published by ACM and will be accessible via the ACM Digital Library.",
+        "from": "WWW2023/calls/Research Tracks/TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'/Instructions for authors of research tracks submissions/PublicationPolicy/PublicationByACM"
+    },
+    {
+        "question": "Where can I browse papers related to this conference after the conference?",
+        "answer": "The full proceedings and companion proceedings of The ACM Web Conference 2023 are available through the SIGWEB. And the website is https://www.sigweb.org/conferences/acm-sigweb-conferences/the-web-conference.",
+        "from": "WWW2023/Proceedings/description"
+    },
+    {
+        "question": "Is there any post-conference access to keynotes or talks",
+        "answer": "Yes",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Will there be live-streamed sessions for those who can't attend in person?",
+        "answer": " Yes",
+        "from": "WWW2023/Attendees/Registration/Introduce"
+    },
+    {
+        "question": "Will a student travel grant application be accepted if it is submitted late?",
+        "answer": "No",
+        "from": "WWW2023/Attendees/Student Travel Award/The Zhipu Student Travel Awards for the 2023 ACM The Web Conference Call for Student Travel Award Applications/notice"
+    },
+    {
+        "question": "Can non-students apply for the Virtual Participation Award?",
+        "answer": "No",
+        "from": "WWW2023/Attendees/Virtual Participation Award/The ACM SIGWEB Fair Access Virtual Participation Awards - Call for Applications/Eligibility"
+    },
+    {
+        "question": "What is the policy regarding preprints or non-archival venues for submissions to The Web Conference 2023 in Industry Track?",
+        "answer": "Authors are welcome to submit papers that have been published as a preprint on arXiv, or in a non-archival venue like a workshop.",
+        "from": "WWW2023/calls/Call For Industry Proposals/Submission guidelines"
+    },
+    {
+        "question": "When was the Call for Papers announced for the conference?",
+        "answer": "The Call for Papers was announced on September 6, 2022.",
+        "from": "WWW02023/Important Dates/September 2022"
+    },
+    {
+        "question": "What issues does Payal Arora bring forward in her keynote speech titled 'Decolonizing Creative Labor in the age of AI'?",
+        "answer": "Payal Arora discusses concerns around digital labor, data materiality, media literacies, creative value, and online expression. Through these topics, she presents a pathway towards designing inclusive and intersectional systems that transcend borders.",
+        "from": "WWW2023>>Proceedings>>Proceedings of the ACM Web Conference 2023>>SESSION: Keynotes"
+    },
+    {
+        "question": "Which event has a best paper award announced?",
+        "answer": "WebSci23 event has a best paper award announced.",
+        "from": "WWW2023>>Satellite Events>>Web Sci2023>>News>>url(https://websci23.webscience.org/best-paper-websci23-awarded/)"
+    },
+    {
+        "question": "What is the role of the peer prediction mechanism in a crowdsourcing setting?",
+        "answer": "Peer prediction aims to incentivize truthful reports from agents whose reports cannot be assessed with any objective ground truthful information, making it a useful tool in multi-task settings where each agent is asked multiple questions.",
+        "from": "WWW2023>>Proceedings>>Proceedings of the ACM Web Conference 2023>>SESSION: Economics, Monetization, and Online Markets>>Multitask Peer Prediction With Task-dependent Strategies"
+    },
+    {
+        "question": "What is the main theme of the Web Sci2023 conference?",
+        "answer": "The main theme of the conference is to understand and document the disparities and inequities in representation, engagement, visibility, and success across various racial, ethnic, and gender groups in digital spaces, especially in the wake of the pandemic and growing international tensions.",
+        "from": "WWW2023>>Satellite Events>>Web Sci2023>>About>>Inequalities in the Face of Concurrent Crises"
+    },
+    {
+        "question": "What is the process of reviewing the submitted papers?",
+        "answer": "Each paper is submitted to one of the tracks listed. Track Chairs review the paper for fitness to the conference and track. Program Committee members will self-declare their expertise for each paper. Each submission will receive at least three independent reviews within each track. A Senior Program Committee member will also provide a summary and will oversee each submission and its review. The submission will be discussed between PC members, the assigned SPC, and track chairs, pre- and post-rebuttal. Papers will be ranked based on a range of factors and based on this ranking, track chairs will recommend papers for presentation at the conference, inclusion in the proceedings, and awards.",
+        "from": "WWW2023>>calls>>Research Tracks>>TheWebConf 2023 Research Tracks Final Call For Papers (CFP) 'Web Research with Openness, Fairness and Reproducibility'>>ReviewProcess"
+    },
+    {
+        "question": "What are the significant updates for the 2023 ACM Web Conference?",
+        "answer": "Each accepted paper must have at least one non-student In-Person Main Conference Registration. If a student author is the only registrant for an accepted paper, they still must register for a non-student In-Person Main Conference. All speakers, presenters, organizers participating in any way at The Web Conference are expected to attend the conference in person. Due to logistical situations, anymore remote presentations cannot be accommodated.",
+        "from": "WWW2023>>Attendees>>Registration>>Introduce"
+    }
+]
