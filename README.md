@@ -5,7 +5,7 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
 ## 数据集的收集方法
 
 <p align="center">
-    <a href="https://github.com/hzwy3c/ConferenceQA/tree/main"> <img src="figures/data_construction.png"/></a>
+    <img src="figures/data_construction.png"/></a>
 <p>
 
 ### 构建半结构化数据
@@ -87,7 +87,7 @@ ConferenceQA是一个为学术会议问答任务而构建的数据集，它包�
 我们设计了一种融合结构信息和语言信息的方法，以更好地处理学术会议问答任务。主要方法是利用gpt生成文本描述，并针对生成的文本描述进行不同的组合设计，下面是这个方法的示例图，具体方法和实验结果可阅读我们的论文：
 
 <p align="center">
-    <a href="https://github.com/hzwy3c/ConferenceQA/tree/main"> <img src="figures/method.png"/></a>
+     <img src="figures/method.png"/></a>
 <p>
 
 ## 使用方法
